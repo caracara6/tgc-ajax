@@ -40,7 +40,7 @@ Inside `users.json`, you will find an array of user objects.
 Your task: 
 
 1. Create your own `index.html` and `script.js`
-2. When a button is pressed, load in all the users from `users.json` and display their `firstrName`, `lastName` and `email` in a list (of your own format)
+2. When a button is pressed, load in all the users from `users.json` and display their `firstName`, `lastName` and `email` in a list (of your own format)
 3. Create a text box, with a button labeled 'Search' next to it
 4. When the user has entered a **userId** in the text box and clicks on the 'Search' button, display the `firstName` and `lastName` of the user with that userId in any way you deem fit.
 
